@@ -13,6 +13,7 @@
 		E81A2F3F281FEFDD004538EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E81A2F3E281FEFDD004538EF /* Preview Assets.xcassets */; };
 		E871437E282009F7000CBBF0 /* Styles.swift in Sources */ = {isa = PBXBuildFile; fileRef = E871437D282009F7000CBBF0 /* Styles.swift */; };
 		E871438028201B5D000CBBF0 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E871437F28201B5D000CBBF0 /* AccountView.swift */; };
+		E87B61AF2820CEB1004A4607 /* Hexagon.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87B61AE2820CEB1004A4607 /* Hexagon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E81A2F3E281FEFDD004538EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E871437D282009F7000CBBF0 /* Styles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Styles.swift; sourceTree = "<group>"; };
 		E871437F28201B5D000CBBF0 /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
+		E87B61AE2820CEB1004A4607 /* Hexagon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hexagon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E81A2F39281FEFDC004538EF /* ContentView.swift */,
 				E871437D282009F7000CBBF0 /* Styles.swift */,
 				E871437F28201B5D000CBBF0 /* AccountView.swift */,
+				E87B61AE2820CEB1004A4607 /* Hexagon.swift */,
 				E81A2F3B281FEFDD004538EF /* Assets.xcassets */,
 				E81A2F3D281FEFDD004538EF /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				E871437E282009F7000CBBF0 /* Styles.swift in Sources */,
 				E81A2F3A281FEFDC004538EF /* ContentView.swift in Sources */,
 				E81A2F38281FEFDC004538EF /* DesignCodeiOS15App.swift in Sources */,
+				E87B61AF2820CEB1004A4607 /* Hexagon.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
